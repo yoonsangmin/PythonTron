@@ -70,9 +70,8 @@ while loop == True:
     p_en.draw(surface)
     pygame.display.flip()
 
-    if p.check_collisions(p_en) or p.is_dead == True or p_en.is_dead == True:
-        p.dead()
-        p_en.dead()
+    if p.check_collisions(p_en) or p_en.check_collisions(p):
+        n.send(con, p)
         loop = False
 
     if p_en.is_p_en == True:

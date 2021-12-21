@@ -74,10 +74,12 @@ while loop == True:
     pygame.display.flip()
 
     if p.check_collisions(p_en) or p_en.check_collisions(p):
+        n.send(con, p)
         loop = False
 
     if p_en.is_p_en == True:
         is_start = True
+
 
     fps.tick(10)  # fps는 60
 

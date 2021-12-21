@@ -29,8 +29,6 @@ class Player:
 
         self.is_p_en = False
 
-        self.is_dead = False
-
     def draw(self, surface):
         for position in self.positions:
             pygame.draw.rect(surface, self.color, (position[0], position[1], GRID_SIZE, GRID_SIZE))
@@ -66,6 +64,3 @@ class Player:
             return True
 
         return False
-
-    def dead(self):
-        self.is_dead = True

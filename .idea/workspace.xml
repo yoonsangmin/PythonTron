@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="01df9921-a58f-4048-9e38-372d532162f6" name="Changes" comment="멀티 시도">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2인 스네이크/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/2인 스네이크/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2인 온라인 스네이크 - 디자인 개선의 개선/Player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2인 온라인 스네이크 - 디자인 개선의 개선/game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2인 온라인 스네이크 - 디자인 개선의 개선/game2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2인 온라인 스네이크 - 디자인 개선의 개선/network.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2인 온라인 스네이크 - 디자인 개선의 개선/server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2인 온라인 스네이크/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/2인 온라인 스네이크/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/온라인 자동 이동 X/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인 자동 이동 X/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/온라인 자동 이동 X/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인 자동 이동 X/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/온라인 자동 이동 X/game2.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인 자동 이동 X/game2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/온라인 트론/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인 트론/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/온라인 트론/game2.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인 트론/game2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/온라인 트론/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인 트론/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <recent name="C:\Users\Acer\Desktop\PythonTron\멀티 연습 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.game">
+  <component name="RunManager" selected="Python.game (1)">
     <configuration name="game (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTron" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTron" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/온라인 자동 이동 X" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/온라인 트론" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/온라인 자동 이동 X/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/온라인 트론/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.game" />
-        <item itemvalue="Python.game2 (1)" />
-        <item itemvalue="Python.server" />
         <item itemvalue="Python.game (1)" />
         <item itemvalue="Python.game2" />
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.game2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640086022665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="멀티 시도">
+      <created>1640107204433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640107204433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
