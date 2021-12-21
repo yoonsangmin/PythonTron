@@ -1,3 +1,4 @@
+# https://mawile.tistory.com/64
 import pygame  # 게임을위한 메인모듈
 import pyautogui  # 조작감살짝 늘리기
 import sys  # 콘솔창제어
